@@ -12,7 +12,6 @@ int factorial(int x, int n) {
             }
         }
     }
-
     return counter;
 }
 
